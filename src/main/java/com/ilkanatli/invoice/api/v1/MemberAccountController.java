@@ -56,4 +56,5 @@ public class MemberAccountController {
         List<MemberAccountResponse> memberAccount = memberAccountServiceImpl.getAllMemberAccounts();
         return ResponseEntity.ok(memberAccount);
     }
+
 }

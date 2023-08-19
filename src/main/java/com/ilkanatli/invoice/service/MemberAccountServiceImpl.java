@@ -126,4 +126,5 @@ public class MemberAccountServiceImpl implements MemberAccountService {
     public String getCode(Long id, String name) {
         return id + name.substring(0, 2);
     }
+
 }

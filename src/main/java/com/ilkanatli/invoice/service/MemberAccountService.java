@@ -18,4 +18,5 @@ public interface MemberAccountService {
 
     public MemberAccountResponse getMemberCode(String code);
 
+
 }

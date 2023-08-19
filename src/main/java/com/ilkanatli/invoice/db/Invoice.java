@@ -51,4 +51,5 @@ public class Invoice implements Serializable{
     @Temporal(TemporalType.TIMESTAMP)
     private Date createdDate;
 
+
 }

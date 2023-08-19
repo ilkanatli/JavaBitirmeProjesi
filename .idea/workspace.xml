@@ -7,35 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70a4cdd5-7c6a-404c-881f-70d6daf9be6b" name="Changes" comment="Java Bitirme Projesi">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/InvoiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/dto/InvoiceRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/dto/InvoiceResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/dto/MemberAccountRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/dto/MemberAccountResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/v1/CallController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/api/v1/MemberAccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/db/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/db/MemberAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/exception/InvoiceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/exception/MemberAccountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/repository/InvoiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/repository/MemberAccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/service/ClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/service/InvoiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/service/MemberAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ilkanatli/invoice/service/MemberAccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ilkanatli/invoice/InvoiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ilkanatli/invoice/service/ClientImplTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="70a4cdd5-7c6a-404c-881f-70d6daf9be6b" name="Changes" comment="Java Bitirme Projesi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +61,11 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.44942528",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,6 +86,21 @@
       <option name="presentableId" value="Default" />
       <updated>1692453569945</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Bitirme Projesi">
+      <created>1692466698113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692466698113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java Bitirme Projesi">
+      <created>1692466738482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692466738482</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

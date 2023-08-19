@@ -20,4 +20,5 @@ public interface InvoiceService {
     public InvoiceResponse inquirePayment(int invoiceType, String memberCode);
     public InvoiceResponse cancelPayment(int invoiceType, String memberCode, double amount);
 
+
 }

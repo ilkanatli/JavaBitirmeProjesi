@@ -18,4 +18,5 @@ public class InvoiceRequest {
 
     @JsonProperty("bill_type")
     private int billType;
+
 }

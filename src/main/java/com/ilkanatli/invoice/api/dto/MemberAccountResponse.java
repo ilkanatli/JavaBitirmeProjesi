@@ -30,4 +30,5 @@ public class MemberAccountResponse {
 
     @JsonProperty("invoice")
     private Invoice invoice;
+
 }

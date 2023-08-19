@@ -132,6 +132,7 @@ public class ClientImplTest {
         assertAll(
                 () -> assertEquals(1, response.getBillType()),
                 () -> assertEquals(100.0, response.getAmount()));
+
     }
 
 //    private final String memberCode = "1Me";

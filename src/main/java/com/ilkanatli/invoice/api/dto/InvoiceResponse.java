@@ -24,4 +24,5 @@ public class InvoiceResponse {
 
     @JsonProperty("process_date")
     private Date process_date;
+
 }

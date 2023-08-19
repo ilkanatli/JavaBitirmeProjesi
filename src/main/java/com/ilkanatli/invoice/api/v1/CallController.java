@@ -72,4 +72,5 @@ public class CallController {
         InvoiceResponse response = client.cancelPayment(invoiceType, memberCode, amount);
         return ResponseEntity.ok(response);
     }
+
 }

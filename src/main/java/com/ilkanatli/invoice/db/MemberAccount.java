@@ -66,4 +66,5 @@ public class MemberAccount implements Serializable{
         return  id + name.substring(0,2);
     }
 
+
 }
